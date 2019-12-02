@@ -31,15 +31,23 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 3. tensorflow-gpu 1.0.0
 4. seetaface
 5. visual studio 2015
+6. python 2.7.15
 p.s. and some other neccessary datasets.
 
 ### Steps
 Here, we will introduce steps to complete our code on details
 
-```Steps
+#Initial steps to set up environments 
+-To make things becomes easier, you may first install anaconda3, and the package can be find from [here](https://www.anaconda.com/download/)
 
+to set up opencv: conda install opencv
 
+to set up tensorflow 
+```to set up tensorflow 
+gpu: pip install tensorflow-gpu==0.5.0
+cpu: pip install tensorflow==0.5.0
 ```
+
 
 Your Pages site will use ttttout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thorhu/Eyeblink-in-the-wild/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
