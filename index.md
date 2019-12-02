@@ -8,7 +8,7 @@ To reveal the "in the wild" characteristics, such as dramatic variations on huma
 ```Dataset
 
 # some snapshorts on HUST-LEBW
-![Image text](https://github.com/thorhu/Eyeblink-in-the-wild/blob/master/challenge.pdf)
+![Image text](https://github.com/thorhu/Eyeblink-in-the-wild/blob/master/dataset/challenge.jpg)
 ## Header 2
 ### Header 3
 
