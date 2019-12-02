@@ -25,13 +25,21 @@ To reveal the "in the wild" characteristics, such as dramatic variations on huma
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### environments & tools
+### Environments & tools
 1. opencv3.2.0
 2. tensorflow 0.5.0
 3. tensorflow-gpu 1.0.0
 4. seetaface
 5. visual studio 2015
+p.s. and some other neccessary datasets.
 
+### Steps
+Here, we will introduce steps to complete our code on details
+
+```Steps
+
+
+```
 
 Your Pages site will use ttttout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thorhu/Eyeblink-in-the-wild/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
