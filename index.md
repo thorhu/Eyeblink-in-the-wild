@@ -3,10 +3,9 @@
 This project is an introduction of paper "Towards Real-time Eyeblink Detection in The Wild: Dataset, Theory and Practices", which is publiced in IEEE transactions on information forensics and security (tifs), In this paper, we shed the light to this research topic. A labelled eyeblink in the wild dataset (i.e., HUST-LEBW) of 673 eyeblink video samples (i.e., 381 positives, and 292 negatives) is first established, and formulate eyeblink detection task as a binary spatial-temporal pattern recognition problem. After locating and tracking human eye using SeetaFace engine and KCF {(Kernelized Correlation Filters)} tracker respectively, a modified LSTM model able to capture the multi-scale temporal information is proposed to execute eyeblink verification.
 
 ### Dataset
-To reveal the "in the wild" characteristics, such as dramatic variations on human attribute, human pose, illumination, imaging viewpoint, and imaging distance, the eyeblink samples in HUST-LEBW are collected from 20 different commercial movies, with different attribute informatiosn (i.e., name, filming location, style and premiere time). For instance, it consists of 673 eyeblink video clip samples (i.e., 381 positives, and 292 negatives) that captured from the unconstrained movies to reveal the characteristics of "in the wild".
+To reveal the "in the wild" characteristics, such as dramatic variations on human attribute, human pose, illumination, imaging viewpoint, and imaging distance, we propose an "in the wild" dataset named HUST-LEBW. The eyeblink samples in HUST-LEBW are collected from 20 different commercial movies, with different attribute informatiosn (i.e., name, filming location, style and premiere time). For instance, it consists of 673 eyeblink video clip samples (i.e., 381 positives, and 292 negatives) that captured from the unconstrained movies to reveal the characteristics of "in the wild". This datset can be download from [here]().
 
 ```Dataset
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
