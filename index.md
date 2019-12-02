@@ -25,13 +25,13 @@ To reveal the "in the wild" characteristics, such as dramatic variations on huma
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Environments & tools
+### Environments
 1. opencv3.2.0
 2. tensorflow 0.5.0
 3. tensorflow-gpu 1.0.0
 4. seetaface
-5. visual studio 2015
-6. python 2.7.15
+5. python 2.7.15
+
 p.s. and some other neccessary datasets.
 
 ### Steps
@@ -39,8 +39,8 @@ Here, we will introduce steps to complete our code on details
 
 #Initial steps to set up environments 
 
--To make things becomes easier, you may first install anaconda3, and the package can be find from [here](https://www.anaconda.com/download/)
-
+-To make things becomes easier, you may first install anaconda3, and the package can be find from [here](https://www.anaconda.com/download/), you can also download seetaface (c++ version)
+ in [here](https://github.com/seetaface/SeetaFaceEngine.git). 
 To set up opencv
 ```To set up opencv
 conda install opencv
