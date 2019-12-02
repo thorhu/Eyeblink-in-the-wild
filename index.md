@@ -38,6 +38,7 @@ p.s. and some other neccessary datasets.
 Here, we will introduce steps to complete our code on details
 
 #Initial steps to set up environments 
+
 -To make things becomes easier, you may first install anaconda3, and the package can be find from [here](https://www.anaconda.com/download/)
 
 to set up opencv: conda install opencv
