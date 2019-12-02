@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Brief Introduction towards Eyeblink Detection in the Wild
 
 You changee the [editor on GitHub](https://github.com/thorhu/Eyeblink-in-the-wild/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
