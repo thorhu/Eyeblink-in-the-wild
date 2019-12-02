@@ -41,10 +41,13 @@ Here, we will introduce steps to complete our code on details
 
 -To make things becomes easier, you may first install anaconda3, and the package can be find from [here](https://www.anaconda.com/download/)
 
-to set up opencv: conda install opencv
+To set up opencv
+```To set up opencv
+conda install opencv
+```
 
-to set up tensorflow 
-```to set up tensorflow 
+To set up tensorflow 
+```To set up tensorflow 
 gpu: pip install tensorflow-gpu==0.5.0
 cpu: pip install tensorflow==0.5.0
 ```
