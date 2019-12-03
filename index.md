@@ -52,7 +52,7 @@ gpu: pip install tensorflow-gpu==0.5.0
 cpu: pip install tensorflow==0.5.0
 ```
 
-#Step1: use seetaface with kcf to detect eye images
+#Step1: use seetaface with kcf to detect eye images, codes and guidence can be found from [here]()
 
 
 Your Pages site will use ttttout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thorhu/Eyeblink-in-the-wild/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
