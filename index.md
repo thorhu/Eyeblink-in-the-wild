@@ -56,7 +56,16 @@ cpu: pip install tensorflow==0.5.0
 
 #Step2: after locate eye images, extract uniform-LBP feature from eye images, codes and guidence can be found from[here](https://github.com/thorhu/uniform_lbp-coding)
 
-#Step3: train MS-LSTM:
+#Step3: apply model:
+```
+cd codes/LSTM_combine_sphereface/
+
+-train the model
+python mylstm_10.py
+
+-test the model
+python mylstm_10_test.py
+```
 
 
 
