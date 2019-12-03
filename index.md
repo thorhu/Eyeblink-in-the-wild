@@ -37,7 +37,7 @@ cpu: pip install tensorflow==0.5.0
 
 #Step2: after locate eye images, extract uniform-LBP feature from eye images, codes and guidence can be found from[here](https://github.com/thorhu/uniform_lbp-coding)
 
-#Step3: apply model:
+#Step3: dwnload codes from [here](https://github.com/thorhu/Eyeblink-in-the-wild/tree/master/codes/LSTM_combine_sphereface), and apply model:
 ```
 cd codes/LSTM_combine_sphereface/
 
