@@ -51,4 +51,4 @@ python mylstm_10_test.py
 ### index
 
 #time consumation (Intel(R) Core(TM) i7-7700HQ CPU@ 2.8GHz (only using one core))
-
+![time](https://github.com/thorhu/Eyeblink-in-the-wild/blob/master/dataset/time.png)
