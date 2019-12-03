@@ -47,5 +47,6 @@ python mylstm_10.py
 python mylstm_10_test.py
 ```
 ### Citation
-if you use our dataset or code, please use the following citations:
+if you use our dataset or code, please use the following citation:
+
 [1] Guilei Hu, Yang Xiao, Zhiguo Cao, Lubin Meng, Zhiwen Fang, and Joey Tianyi Zhou. Towards real-time eyeblink detection in the wild: Dataset, theory and practices. arXiv preprint arXiv:1902.07891, 2019. 1, 2, 3, 4, 5, 6, 7, 8, 9
