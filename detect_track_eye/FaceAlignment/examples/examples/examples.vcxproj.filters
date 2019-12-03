@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\CF">
+      <UniqueIdentifier>{f880cff8-56ab-462c-ab68-34e6b9fefd18}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\CF">
+      <UniqueIdentifier>{34527be3-c349-48b1-8cb6-67b604ab1d69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\proposal">
+      <UniqueIdentifier>{fcd017e6-f720-4905-9d6b-fa7e40f50b2c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\src\test\face_alignment_test.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="evaluate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LBP_59.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="eql.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CFsrc\piotr_fhog\gradientMex.cpp">
+      <Filter>Source Files\CF</Filter>
+    </ClCompile>
+    <ClCompile Include="CFsrc\mainpath\stdafx.cpp">
+      <Filter>Source Files\CF</Filter>
+    </ClCompile>
+    <ClCompile Include="CFsrc\cf.cpp">
+      <Filter>Source Files\CF</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Config.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\drawRect.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Tracker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\track_initial.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\track_eye.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="destory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\KCF\gf35VS10\src\proposal\main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="CFsrc\cf.h">
+      <Filter>Header Files\CF</Filter>
+    </ClInclude>
+    <ClInclude Include="CFsrc\Rect.h">
+      <Filter>Header Files\CF</Filter>
+    </ClInclude>
+    <ClInclude Include="CFsrc\stdafx.h">
+      <Filter>Header Files\CF</Filter>
+    </ClInclude>
+    <ClInclude Include="CFsrc\targetver.h">
+      <Filter>Header Files\CF</Filter>
+    </ClInclude>
+    <ClInclude Include="CFsrc\Tracker.h">
+      <Filter>Header Files\CF</Filter>
+    </ClInclude>
+    <ClInclude Include="CFsrc\vot.hpp">
+      <Filter>Header Files\CF</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Config.h">
+      <Filter>Header Files\proposal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\drawRect.h">
+      <Filter>Header Files\proposal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Rect.h">
+      <Filter>Header Files\proposal</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Tracker.h">
+      <Filter>Header Files\proposal</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

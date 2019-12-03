@@ -1,0 +1,37 @@
+# quiet mode disables all visual output (for experiments).
+quietMode = 0
+
+# debug mode enables additional drawing and visualization.
+debugMode = 1
+
+# if we have ground truth.txt 
+withGround = 0
+
+# base path for video sequences.
+#sequenceBasePath = G:\VS2013_Opencv249\sequence
+#sequenceBasePath = G:\VS2013_Opencv249\502\sequence  G:\VS2013_Opencv249\sequence  Boat
+sequenceBasePath = E:\vsfile\jinglun\KCF\dataset\sequence
+
+# path for output results file.
+# comment this out to disable output.
+resultsPath = log.txt
+
+# result folder under the path (base path + sequenceName + resultsImagePath)
+resultsImagePath = result_gf35
+
+# output the result whitl outputResultFlag = 1
+outputResultFlag = 0
+
+# frame size for use during tracking.
+# the input image will be scaled to this size.
+frameWidth = 320
+frameHeight = 240
+
+# number of the frames
+frameNum = 5000
+
+#videos
+#videos = 200 201 203 205 207 257 259 29-213 29-214 29-215 29-216 29-217 29-218 29-219 29-220 29-221 29-222 29-223 29-225
+#videos = 203 207 205 29-214 29-221 29-225 29-216 29-213 200
+#videos = 29-213 29-214 29-216 29-221 205 203 
+videos = 203

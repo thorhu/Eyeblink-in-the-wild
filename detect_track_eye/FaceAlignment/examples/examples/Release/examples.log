@@ -1,0 +1,9 @@
+﻿Build started 2019/7/4 20:17:03.
+     1>Project "E:\code\mytoolbox\VS\eyeblink-视频读入追踪眼睛\FaceAlignment\examples\examples\examples.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         examples.vcxproj -> E:\code\mytoolbox\VS\eyeblink-视频读入追踪眼睛\FaceAlignment\examples\Release\examples.exe
+     1>Done Building Project "E:\code\mytoolbox\VS\eyeblink-视频读入追踪眼睛\FaceAlignment\examples\examples\examples.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.07
