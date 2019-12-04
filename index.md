@@ -4,7 +4,7 @@ Eyeblink detection is a emerged issue, yet detection in the wild is a topic, whi
 
 ### big images
 
-![Branching](https://github.com/thorhu/Eyeblink-in-the-wild/blob/master/dataset/challenge.jpg)
+![Branching](/thorhu/Eyeblink-in-the-wild/blob/master/dataset/challenge.jpg)
 
 ![Image text](https://github.com/thorhu/Eyeblink-in-the-wild/blob/master/dataset/challenge.jpg)
 
