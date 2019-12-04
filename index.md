@@ -48,11 +48,17 @@ gpu: pip install tensorflow-gpu==0.5.0
 cpu: pip install tensorflow==0.5.0
 ```
 
-### Step1: use seetaface with kcf to detect eye images, codes and guidence can be found from [here](https://github.com/thorhu/Eyeblink-in-the-wild/tree/master/detect_track_eye)
+### Step1: eye images extraction
 
-### Step2: after locate eye images, extract uniform-LBP feature from eye images, codes and guidence can be found from[here](https://github.com/thorhu/uniform_lbp-coding)
+Use seetaface with kcf to detect eye images, codes and guidence can be found from [here](https://github.com/thorhu/Eyeblink-in-the-wild/tree/master/detect_track_eye)
 
-### Step3: download codes from [here](https://github.com/thorhu/Eyeblink-in-the-wild/tree/master/codes/LSTM_combine_sphereface), and apply model:
+### Step2: feature extraction
+
+After locating eye images, extract uniform-LBP feature by eye images, codes and guidence can be found from[here](https://github.com/thorhu/uniform_lbp-coding)
+
+### Step3: eyeblink verification
+
+After extracting uniform-LBP feature, we use MS-LSTM to train and verify eyeblink detection, codes can be downloaded from [here](https://github.com/thorhu/Eyeblink-in-the-wild/tree/master/codes/LSTM_combine_sphereface), and follow these steps to apply our model:
 ```
 cd codes/LSTM_combine_sphereface/
 
