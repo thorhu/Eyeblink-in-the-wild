@@ -37,6 +37,7 @@ Here, we will introduce steps to complete our code on details
 
 -To make things becomes easier, you may first install anaconda3, and the package can be find from [here](https://www.anaconda.com/download/), you can also download seetaface (c++ version)
  in [here](https://github.com/seetaface/SeetaFaceEngine.git). 
+
 To set up opencv
 ```To set up opencv
 conda install opencv
