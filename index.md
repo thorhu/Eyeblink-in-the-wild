@@ -1,4 +1,11 @@
-## Brief introduction towards eyeblink detection in the wild
+
+# Brief introduction towards eyeblink detection in the wild
+
+.justify{
+  width: 120px;
+  text-align: justify;
+}
+
 
 This project is an introduction of paper "Towards Real-time Eyeblink Detection in The Wild: Dataset, Theory and Practices", which is publiced in IEEE transactions on information forensics and security (tifs), In this paper, we shed the light to this research topic. A labelled eyeblink in the wild dataset (i.e., HUST-LEBW) of 673 eyeblink video samples (i.e., 381 positives, and 292 negatives) is first established, and formulate eyeblink detection task as a binary spatial-temporal pattern recognition problem. After locating and tracking human eye using SeetaFace engine and KCF {(Kernelized Correlation Filters)} tracker respectively, a modified LSTM model able to capture the multi-scale temporal information is proposed to execute eyeblink verification.
 
@@ -50,3 +57,4 @@ python mylstm_10_test.py
 if you use our dataset or code, please use the following citation:
 
 [1] Guilei Hu, Yang Xiao, Zhiguo Cao, Lubin Meng, Zhiwen Fang, and Joey Tianyi Zhou. Towards real-time eyeblink detection in the wild: Dataset, theory and practices. arXiv preprint arXiv:1902.07891, 2019. 1, 2, 3, 4, 5, 6, 7, 8, 9
+
