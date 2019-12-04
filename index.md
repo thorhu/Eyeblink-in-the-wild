@@ -9,9 +9,7 @@ To reveal the "in the wild" characteristics, such as dramatic variations on huma
 ![Branching](https://raw.githubusercontent.com/thorhu/Eyeblink-in-the-wild/master/dataset/challenge.jpg)
 
 
-## Copyright and disclaimer:
-Copyright 2019 Guilei Hu
-
+## Copyright
 The dataset is provided for research purposes to a researcher only and not for any commercial use. Please do not release the data or redistribute this link to anyone else without our permission. Contact {guilei_hu, Yang_Xiao}@hust.edu.cn if any question.
 
 If you use this dataset, please cite it as following, also the bibtex can be found from [here]()
@@ -22,19 +20,20 @@ If you use this dataset, please cite it as following, also the bibtex can be fou
 Samples are extracted from the following films:
 Black Mirror；Game of Thrones；Blood Diamond；Chungking Express；Chivalrous Killer；A Clockwork Orange；Pirates of the Caribbean；Contratiempo；Ashes of Time；The Bourne Ultimatum；Mad Max 4；The Last Emperor；Farewell My Concubine；Léon；The Lord of the Rings: The Return of the King；Kill Bill Vol.1；Memories of Matsuko；A Chinese Fairy Tale;The Matrix; The Matrix Reloaded.
 
-### Environments
+# Method and codes
+## Environments
 1. opencv3.2.0
 2. tensorflow 0.5.0
 3. tensorflow-gpu 1.0.0
 4. seetaface
 5. python 2.7.15
 
-p.s. and some other neccessary datasets.
+P.s. and some other neccessary datasets.
 
-### Steps
+## Steps
 Here, we will introduce steps to complete our code on details
 
-#Initial steps to set up environments 
+### Initial steps to set up environments 
 
 -To make things becomes easier, you may first install anaconda3, and the package can be find from [here](https://www.anaconda.com/download/), you can also download seetaface (c++ version)
  in [here](https://github.com/seetaface/SeetaFaceEngine.git). 
@@ -49,11 +48,11 @@ gpu: pip install tensorflow-gpu==0.5.0
 cpu: pip install tensorflow==0.5.0
 ```
 
-#Step1: use seetaface with kcf to detect eye images, codes and guidence can be found from [here](https://github.com/thorhu/Eyeblink-in-the-wild/tree/master/detect_track_eye)
+### Step1: use seetaface with kcf to detect eye images, codes and guidence can be found from [here](https://github.com/thorhu/Eyeblink-in-the-wild/tree/master/detect_track_eye)
 
-#Step2: after locate eye images, extract uniform-LBP feature from eye images, codes and guidence can be found from[here](https://github.com/thorhu/uniform_lbp-coding)
+### Step2: after locate eye images, extract uniform-LBP feature from eye images, codes and guidence can be found from[here](https://github.com/thorhu/uniform_lbp-coding)
 
-#Step3: download codes from [here](https://github.com/thorhu/Eyeblink-in-the-wild/tree/master/codes/LSTM_combine_sphereface), and apply model:
+### Step3: download codes from [here](https://github.com/thorhu/Eyeblink-in-the-wild/tree/master/codes/LSTM_combine_sphereface), and apply model:
 ```
 cd codes/LSTM_combine_sphereface/
 
