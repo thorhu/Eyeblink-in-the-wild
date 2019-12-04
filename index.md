@@ -13,7 +13,9 @@ To reveal the "in the wild" characteristics, such as dramatic variations on huma
 Copyright 2019 Guilei Hu
 
 The dataset is provided for research purposes to a researcher only and not for any commercial use. Please do not release the data or redistribute this link to anyone else without our permission. Contact {guilei_hu, Yang_Xiao}@hust.edu.cn if any question.
-If you use this dataset, please cite it as, also the bibtex can be found from [here]()
+
+If you use this dataset, please cite it as following, also the bibtex can be found from [here]()
+
 [1] Guilei Hu, Yang Xiao, Zhiguo Cao, Lubin Meng, Zhiwen Fang, and Joey Tianyi Zhou. Towards real-time eyeblink detection in the wild: Dataset, theory and practices. arXiv preprint arXiv:1902.07891, 2019. 1, 2, 3, 4, 5, 6, 7, 8, 9
 
 ## Acknowledgment (File resource)
