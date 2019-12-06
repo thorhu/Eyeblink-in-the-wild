@@ -70,9 +70,4 @@ python mylstm_10_test.py
 ```
 
 # Time computation
-|              Procedure               | Time consumation (ms) |
-|:-------------------------------------|:----------------------|
-| Initial eye localization (SeetaFace) |         33.20         |
-|      Eye tracking (KCF)              |          6.06         |
-|    Eyeblink feature extraction       |          0.32         |
-|   Eyeblink verification (MS-LSTM)    |          1.49         |
+![Branching](https://github.com/thorhu/Eyeblink-in-the-wild/blob/master/dataset/time.png?raw=true)
