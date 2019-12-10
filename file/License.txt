@@ -1,0 +1,4 @@
+The dataset is provided for research purposes to a researcher only and not for any commercial use. Please do not release the data or redistribute this link to anyone else without our permission. Contact {guilei_hu, Yang_Xiao}@hust.edu.cn if any question. The bibtex information is provided in the accompanying readme file.
+
+
+Copyright Guilei Hu, Yang Xiao are with National Key Laboratory of Science and Technology on Multi-Spectral Information Processing, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology, China
