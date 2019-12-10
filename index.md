@@ -73,6 +73,6 @@ python mylstm_10_test.py
 
 ![Branching](https://github.com/thorhu/Eyeblink-in-the-wild/blob/master/dataset/time.png?raw=true)
 
-# Successful testing samples:
+# Successful testing samples
 
-![video](https://github.com/thorhu/Eyeblink-in-the-wild/blob/master/dataset/%E7%A4%BA%E4%BE%8B.mp4?raw=true)
+[video](http://v.youku.com/v_show/id_XNDQ2NDU0NTAwOA==.html?spm=a2h3j.8428770.3416059.1)
