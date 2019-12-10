@@ -6,7 +6,7 @@ detection, face anti-spoofing, etc. Although numerous of efforts have already be
 # Dataset
 To reveal the "in the wild" characteristics, such as dramatic variations on human attribute, human pose, illumination, imaging viewpoint, and imaging distance, we propose an "in the wild" dataset named HUST-LEBW. The eyeblink samples in HUST-LEBW are collected from 20 different commercial movies, with different attribute informatiosn (i.e., name, filming location, style and premiere time). For instance, it consists of 673 eyeblink video clip samples (i.e., 381 positives, and 292 negatives) that captured from the unconstrained movies to reveal the characteristics of "in the wild". Their resolutions are 1280 * 720 or 1456 * 600. Each video clips including a blink sample or unblink sample. Each sample have two time span obeying the chronological order. The first time span is 13 frames and the other is 10 frames. Every image’s eye location will be marked in a txt file for both time span. In some cases, these is only one eye visible, we will label this eye and the coordinate of the invisible eye will be (-1,-1). After we get coordinate of the all eyes, we use the coordinate to extract the visible eye images. In addition, to reveal the real challenges in the wild, it also contians 91 untrimmed videos in testing set. This dataset can be download from [BaiduYun](https://pan.baidu.com/s/1_xJPfKEJYI3S9adOlagHTg) or [Mega](https://mega.nz/#F!JQRUTSgS!1uM9jh8Oulw-BGrZUfaCQQ).
 
-![Octocat](https://raw.githubusercontent.com/thorhu/Eyeblink-in-the-wild/master/dataset/challenge.jpg)
+![Branching](https://raw.githubusercontent.com/thorhu/Eyeblink-in-the-wild/master/dataset/challenge.jpg)
 
 
 ### Copyright
