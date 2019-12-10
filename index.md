@@ -75,4 +75,4 @@ python mylstm_10_test.py
 
 # Successful testing samples:
 
-![video]h(https://github.com/thorhu/Eyeblink-in-the-wild/blob/master/dataset/%E7%A4%BA%E4%BE%8B.mp4?raw=true)
+![video](https://github.com/thorhu/Eyeblink-in-the-wild/blob/master/dataset/%E7%A4%BA%E4%BE%8B.mp4?raw=true)
