@@ -39,7 +39,7 @@ Black Mirror；Game of Thrones；Blood Diamond；Chungking Express；Chivalrous 
 P.s. and some other neccessary datasets.
 
 ## Steps
-Here, we will introduce steps to complete our code on details
+Here, we will introduce steps to complete our code on details.
 
 ### Initial steps to set up environments 
 
