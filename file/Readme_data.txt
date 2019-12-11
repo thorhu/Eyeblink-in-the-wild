@@ -1,4 +1,4 @@
-The newest code of Towards Real-time Eyeblink Detection in The Wild: Dataset, Theory and Practices and the HUST-LEBW dataset will always be available from https://thorhu.github.io/Eyeblink-in-the-wild/
+The newest code of Towards Real-time Eyeblink Detection in The Wild: Dataset, Theory and Practices and the HUST-LEBW dataset will always be available from https://thorhu.github.io/Eyeblink-in-the-wild/.
 --------------------------LICENSE------------------------
 The dataset is provided for research purposes to a researcher. Please do not release the data or redistribute this link to anyone else without our permission. Contact {guilei_hu, Yang_Xiao}@hust.edu.cn if any question or any commercial use. Bibtex information for referencing is provided at the bottom of this document.
 
